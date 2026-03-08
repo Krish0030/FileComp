@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+
 # FileComp
 
 FileComp is a simple desktop application that compresses **images and videos** through an easy-to-use graphical interface.
@@ -104,6 +109,11 @@ Videos are compressed using FFmpeg with the following parameters:
 ```
 
 These settings balance compression and quality.
+
+---
+
+##Download
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/Krish0030/FileComp/releases/latest)
 
 ---
 
