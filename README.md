@@ -47,6 +47,11 @@ The application is written in Python and uses FFmpeg for video compression.
 
 ---
 
+## Screenshot
+
+![Application Screenshot](screenshots/ss1.png)
+
+---
 ## Installation
 
 ### 1. Clone the repository
