@@ -49,7 +49,7 @@ The application is written in Python and uses FFmpeg for video compression.
 
 ## Screenshot
 
-![Application Screenshot](screenshots/ss1.png)
+![Application Screenshot](screenshots/ss1.jpg)
 
 ---
 ## Installation
